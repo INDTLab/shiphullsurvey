@@ -1,5 +1,5 @@
 # shiphullsurvey
-If you find our work useful, please cite our work
+If our work is useful for your research, please cite our work
 
         @article{LIN2023116281,
          title = {Ship hull inspection: A survey},
